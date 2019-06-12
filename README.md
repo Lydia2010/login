@@ -1,3 +1,3 @@
 # login
 expressJS
-to create simple server , to use Postman
+to make simple server (Json file), to use Postman for check to get and post
